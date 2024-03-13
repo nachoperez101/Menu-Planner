@@ -2479,6 +2479,7 @@ textarea.w-select {
 }
 
 .container-5 {
+    height: 75vh;
     width: 100%;
     object-fit: fill;
     flex-flow: column;
@@ -2490,7 +2491,7 @@ textarea.w-select {
 }
 
 .div-block-3-copy {
-    width: 80%;
+    width: 100%;
     height: 8%;
     min-height: 44px;
     background-color: var(--dark);
@@ -2506,8 +2507,8 @@ textarea.w-select {
 }
 
 .div-block-4-copy {
-    width: 80%;
-    height: 75%;
+    width: 100%;
+    height: 90%;
     background-color: var(--clear);
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -2536,7 +2537,7 @@ textarea.w-select {
 
 .div-block-4-copy-copy {
     width: 60%;
-    height: 75%;
+    height: 90%;
     background-color: var(--clear);
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
